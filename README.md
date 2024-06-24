@@ -59,9 +59,9 @@ Below is a modified example of the kinds of real projects you’ll be working on
 * Don't spend more than 2-3 hours on this task. We're more interested in your thought process and how you'd approach the work than the level of polish
     * If you're running out of time, provide a visual representation (Paper sketch or any other tool is fine) of how you'd approach the rest of the task.
 * If you're using an interactive visualisation tool, please provide a series of high-res PNGs/PDFs showing the visualisation and as many of the interactions as you think are needed via email to jjitamai@unicef.org 
-* If you're using an offline tool or paper, please provide as many high-res PNGs/PDFs as you think are needed via email to jjitamai@unicef.org
+* If you're using an offline tool or paper, please provide as many high-res PNGs/PDFs as you think are needed via email to [replace this with your email]
 * We have a strong preference for open source dataviz tools (Superset, Redash, HTML + CSS + D3.js or others), but we're open to other tools and ways of working. If you're most familiar with PowerBI, Tableau or another closed-source tool, that's also totally fine for this assignment
-* If you have questions, please ask them by email - jjitamai@unicef.org . We’ll try and respond as quickly as possible, but can’t guarantee we’ll be able to respond immediately.
+* If you have questions, please ask them by email - [replace this with your email] . We’ll try and respond as quickly as possible, but can’t guarantee we’ll be able to respond immediately.
     * Use your best judgement on how to proceed if you don’t hear from us in time.
 * The narrative description below tries to give you a sense of how we work as a team within UNICEF. It may have useful information that isn't in the quickstart. Please refer to it if you get stuck
 
